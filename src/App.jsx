@@ -24,7 +24,7 @@ function App() {
         <Route path="/tutor/add-course" element={<AddCourse />} />
         <Route path="/tutor/demo-requests" element={<DemoRequests />} />
         <Route path="/tutor/classes" element={<Classes />} />
-        <Route path="/tutor/classes-requests" element={<ClassesRequests />} />
+        <Route path="/tutor/classes-requests" element={<ClassesRequests />} />  
         <Route path="/tutor/analytics" element={<Analytics />} />
 
         {/* user  */}
